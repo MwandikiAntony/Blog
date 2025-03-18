@@ -1,0 +1,46 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Environment files
+.env
+
+# Database
+*.db
+
+# Build output
+/dist
+/build
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor settings
+.vscode/
+.idea/
+
+# Debugger
+debug.log
+
+# Coverage directory used by testing tools
+coverage/
+
+# Next.js build output
+.next/
+
+# Vercel deployment
+.vercel/
+
+# Firebase
+.firebaserc
+.firebase/
